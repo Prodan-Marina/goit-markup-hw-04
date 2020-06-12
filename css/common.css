@@ -156,6 +156,9 @@
   background-color: var(--accent-color);
   color: var(--primary-white-color);
 }
+
+.button.secondary {border-color: transparent;
+background-color: var(--bg-grey-color);}
 .button.secondary:hover,
 .button.secondary:focus {
   background-color: var(--accent-color);
